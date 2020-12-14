@@ -1,0 +1,28 @@
+.text{
+    margin-right: 50%;
+}
+
+.img{
+    margin-left: 60%;
+    margin-top: -500%;
+    margin-bottom: 20%;
+}
+
+h2{
+    margin-left: 20%;
+    color: chocolate;
+    font-size: 220%;
+    text-shadow: 2px 2px black;
+}
+
+h3{
+    margin-left: 33%;
+    color: chocolate;
+    font-size: 220%;
+    text-shadow: 2px 2px black;
+
+}
+
+p{
+    font-size: 110%;
+}

@@ -1,0 +1,20 @@
+table{
+    font-size: 200%;
+    border: solid;
+    border-color: #2a5213;
+    background-color: #568839;
+    margin-left: 25%;
+}
+
+h3{
+    font-size: 200%;
+    margin-left: 35%;
+    color: rgb(233, 128, 8);
+    text-shadow: 2px 2px black;
+
+}
+
+.tableh{
+    background-color: black;
+    color: blanchedalmond;  
+}
